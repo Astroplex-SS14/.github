@@ -1,9 +1,9 @@
-  <a href="https://github.com/Astroplex-SS14c">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Astroplex-SS14&theme=transparent" />
-  </a>
-  <a href="https://github.com/Astroplex-SS14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astroplex-SS14&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Astroplex-SS14">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astroplex-SS14&theme=transparent" />
-  </a>
+# Что такое Astroplex?
+Это молодой проект с целью обучить новичков игре, создать приятную атмосферу.
+
+# Почему мы?
+Причины нет для выбора именно нас, но что мы вам можем дать?
+- Приятный игровой процесс.
+- Частые обновления.
+- Опыт в Администрации SS14, который так нужен.
+- Помощь в адаптации.
